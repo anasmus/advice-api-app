@@ -29,6 +29,7 @@ body {
   max-width: 600px;
   width: 80%;
   padding: 4em 1em;
+  padding-top: 2em;
   border-radius: 20px;
   background-image: url("images/pattern-divider-desktop.svg");
   background-repeat: no-repeat;
